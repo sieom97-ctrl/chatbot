@@ -1,0 +1,11 @@
+{"timestamp": "2026-08-30T14:37:36", "query": "전시 해설 안내해줘", "matched": true, "matched_questions": ["전시 해설 예약", "비대면(온라인) 관람 서비스", "전시관 해설은 어디에서 듣나요?"]}
+{"timestamp": "2026-08-30T14:38:06", "query": "시어비는 어디있어?", "matched": false, "matched_questions": []}
+{"timestamp": "2026-08-30T15:11:38", "query": "시어비 어디있어?", "matched": false, "matched_questions": []}
+{"timestamp": "2026-08-30T15:22:16", "query": "흑성산에서 독립기념관이 잘 보여?", "matched": true, "matched_questions": ["독립기념관은 어디에 있나요?", "독립기념관 홍보관", "독립기념관에는 어떤 전시관이 있나요?"]}
+{"timestamp": "2026-08-30T15:22:56", "query": "흑성산에 전경이 어때?", "matched": false, "matched_questions": []}
+{"timestamp": "2026-08-30T15:43:51", "query": "전시관 알려줘", "matched": true, "matched_questions": ["야외전시", "전시관 해설은 어디에서 듣나요?", "전시관 스탬프를 다 찍으면 이벤트가 있나요?"]}
+{"timestamp": "2026-08-30T16:31:46", "query": "독립기념관에서 흑성산 갈 수 있어?", "matched": true, "matched_questions": ["독립기념관은 어디에 있나요?", "단풍나무길은 어디에 있고, 소요시간과 절정 시기는 언제인가요?", "태극열차에 유모차를 가지고 탈 수 있나요?"]}
+{"timestamp": "2026-08-30T16:34:40", "query": "행사는 어떤 것이 있어?", "matched": true, "matched_questions": ["(행사당일) 자원봉사 신청했는데 어디로 가면 되나요?", "독립기념관에는 어떤 전시관이 있나요?", "독립기념관에 식당이 있나요? 어떤 메뉴가 있나요?"]}
+{"timestamp": "2026-08-30T16:40:06", "query": "시어비는 어디있어?", "matched": false, "matched_questions": []}
+{"timestamp": "2026-08-30T16:40:18", "query": "행사는 어떤것이 있어?", "matched": true, "matched_questions": ["(행사당일) 자원봉사 신청했는데 어디로 가면 되나요?", "단풍나무길은 어디에 있고, 소요시간과 절정 시기는 언제인가요?"]}
+{"timestamp": "2026-08-30T16:43:04", "query": "서문으로 출입할 수 있을까?", "matched": false, "matched_questions": []}

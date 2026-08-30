@@ -1,0 +1,21 @@
+{
+  "panel_title": "독립이2",
+  "greeting": "안녕하세요! 독립기념관 안내 챗봇입니다. 관람 시간, 전시관, 오시는 길 등이 궁금하시면 물어봐 주세요.",
+  "fab_label": "독립기념관 챗봇",
+  "chat_placeholder": "궁금한 점을 물어보세요",
+  "fallback_message": "현재 시스템 내 해당 내용이 없습니다. 다음 업데이트(약 5일 소요) 시 반영하겠습니다.",
+  "position": "bottom-right",
+  "margin_x": 30,
+  "margin_y": 30,
+  "panel_width": 340,
+  "panel_height": 700,
+  "messages_height": 520,
+  "border_radius": 10,
+  "accent_color": "#1B3A6B",
+  "panel_bg_color": "#FFFFFF",
+  "panel_opacity": 1.0,
+  "shadow_strength": 55,
+  "top_k": 3,
+  "score_threshold": 0.12,
+  "default_open": false
+}

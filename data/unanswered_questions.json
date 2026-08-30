@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9c4442a5-2cd5-4851-ace2-4d3d82b45c11",
+    "question": "시어비는 어디있어?",
+    "count": 3,
+    "first_asked": "2026-08-30",
+    "last_asked": "2026-08-30",
+    "status": "open"
+  },
+  {
+    "id": "c36859a7-bab7-444d-aa54-8dc7ca1f8eeb",
+    "question": "흑성산에 전경이 어때?",
+    "count": 1,
+    "first_asked": "2026-08-30",
+    "last_asked": "2026-08-30",
+    "status": "open"
+  },
+  {
+    "id": "61d544f1-f6f5-47ff-b701-07dc823c8e9f",
+    "question": "서문으로 출입할 수 있을까?",
+    "count": 1,
+    "first_asked": "2026-08-30",
+    "last_asked": "2026-08-30",
+    "status": "open"
+  }
+]
